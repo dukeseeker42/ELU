@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]==22.2
+google-generativeai
+python-dotenv
+aiosqlite
+httpx
+orjson
+Pillow
